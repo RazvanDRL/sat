@@ -1,0 +1,4 @@
+c A simple satisfiable example with 3 variables and 2 clauses
+p cnf 3 2
+1 -2 0
+-1 2 3 0 
